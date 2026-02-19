@@ -3,6 +3,7 @@
 🚀 Python Automation Developer focused on building practical workflow solutions.
 
 I help automate repetitive tasks, organize messy data, and optimize file & Excel workflows using clean and scalable Python code.
+I focus on reducing manual effort and building reliable automation systems for real-world business needs.
 
 ---
 
@@ -22,7 +23,7 @@ I help automate repetitive tasks, organize messy data, and optimize file & Excel
 - os
 - shutil
 - datetime
-- Pandas (Learning & Applying)
+- Pandas (Data Processing & Automation)
 - Git & GitHub
 
 ---
@@ -61,3 +62,13 @@ To become a high-level Python Automation Specialist delivering scalable automati
 ## 📫 Connect With Me
 
 GitHub: https://github.com/rupam-datalabs
+
+---
+
+## 🚀 Available For
+
+- Automation Projects
+- Excel Data Processing Tasks
+- File Organization Systems
+- Workflow Optimization Solutions
+
